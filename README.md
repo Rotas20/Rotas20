@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://Rotas20/github.com/images/welcome.jpg
+https://https://github.com/Rotas20/Rotas20/Welcome.png
+
 
 <!--
 **Rotas20/Rotas20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
