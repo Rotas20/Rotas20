@@ -1,7 +1,12 @@
-### Hi there 👋
 
 
-<img src="https://github.com/Rotas20/Rotas20/blob/master/Welcome.png?raw=true" alt="Oops! Something went wrong!" width="100%" height="100%">
+
+<img src="https://github.com/Rotas20/Rotas20/blob/master/Welcome.png?raw=true" alt="Oops! Something went wrong!" width="100%" height="75%">
+
+### Hi there! 
+I'm begining my career as a Data Analyst, branching out from market research in the Consumer Packaged Goods space. I've recently completed a six month data analytics boot camp from Columbia Univeristy and am excited to apply my newfound skills in a professional setting. As I embark on this journey I welcome constructive feedback and the opportunity to learn from others. 
+
+
 
 <!--
 **Rotas20/Rotas20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
