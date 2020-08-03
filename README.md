@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<![alt text](https://github.com/Rotas20/Rotas20/blob/master/Welcome.png?raw=true) height="100%" width="100%">
+<img src="https://github.com/Rotas20/Rotas20/blob/master/Welcome.png?raw=true" alt="Oops! Something went wrong!" width="100%" height="100%">
 
 <!--
 **Rotas20/Rotas20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
